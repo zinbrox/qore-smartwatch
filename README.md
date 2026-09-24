@@ -1,4 +1,4 @@
-# smartwatch
+# qore-smartwatch data & dashboard
 
 I have a Pebble Qore band. The app is fine, but all my heart rate, sleep and stress data ends up on someone else's server. Why would I hand that to a third party when the band will just tell my laptop everything over Bluetooth?
 
