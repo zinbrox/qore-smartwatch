@@ -1,0 +1,20 @@
+# secrets / local settings
+.env
+
+# band data and exports
+data/
+qore_data/
+*.db
+*.db.bak*
+*.log
+bigdata_*.txt
+
+# python
+.venv*/
+__pycache__/
+*.pyc
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/
